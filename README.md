@@ -9,9 +9,11 @@ Homework 1: due 12/19
 
     created classes= "benefit-subset" and "content-subset" in HTML to consolidate the css
 
+    add comments to <!--html--> and /*css*/
 
 
 
 
 
-question, the id tag makes page drop to different place?
+
+a few questions have been included in the comments
