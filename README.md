@@ -1,6 +1,8 @@
 # CodeRedractor
 Homework 1: due 12/19
 
-created classes: "benefit-subset" and "content-subset" in HTML to consolidate the css
+added title "Horiseon"
+add id= to search-engine-optimization 
+created classes= "benefit-subset" and "content-subset" in HTML to consolidate the css
 
-question, are all the id tags necessary?
+question, the id tag makes page drop to different place?
