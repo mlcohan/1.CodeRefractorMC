@@ -11,6 +11,17 @@ Homework 1: due 12/19
 
     add comments to <!--html--> and /*css*/
 
+   SEMANTIC HTML
+        changed div to header in html
+        changed div to nav in html and css
+        changed class=hero to class=backgroundimage in html and css
+        changed div to section
+        changed 3 divs to article
+        changed div to aside
+        changed 3 divs to article
+        changed div to footer
+
+
 
 
 
